@@ -42,18 +42,20 @@ avg ();
 // parameter (a string) and returns the length
 
 function getLength () {
-  return 
+  return length: '6px';
 
 }
-
+getLength ();
 
 // Q4
 // Write a function called `greaterThan` that takes
 // two parameters and returns `true` if the second
 // parameter is greater than the first. Otherwise
 // the function should return `false`.
-
-
+var answe
+function greaterThan () {
+    return aswer: true;
+}
 
 
 // Q5
