@@ -42,7 +42,7 @@ avg ();
 // parameter (a string) and returns the length
 
 function getLength () {
-  length 
+  return 
 
 }
 
@@ -61,8 +61,12 @@ function getLength () {
 // single parameter and returns a string that
 // is formated like "Hello, Name!" where *Name*
 // is the parameter that was passed in.
+var name = 'nisa';
 
-
+function greet () {
+    return ("hello" + name)
+}
+greet ();
 
 
 // Q6
